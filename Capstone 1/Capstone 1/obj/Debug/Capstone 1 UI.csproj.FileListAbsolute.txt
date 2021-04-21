@@ -1,0 +1,12 @@
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1.exe.config
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1.exe
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1.pdb
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1 Model.dll
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1 Model.pdb
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1 UI.csprojAssemblyReference.cache
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1 UI.csproj.CoreCompileInputs.cache
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1 UI.csproj.CopyComplete
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1.exe
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1.pdb
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1 DataAccess.dll
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1 DataAccess.pdb

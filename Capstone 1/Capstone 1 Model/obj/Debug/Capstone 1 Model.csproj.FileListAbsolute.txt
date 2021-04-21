@@ -1,0 +1,6 @@
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 Model\bin\Debug\Capstone 1 Model.dll
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 Model\bin\Debug\Capstone 1 Model.pdb
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 Model\obj\Debug\Capstone 1 Model.csprojAssemblyReference.cache
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 Model\obj\Debug\Capstone 1 Model.csproj.CoreCompileInputs.cache
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 Model\obj\Debug\Capstone 1 Model.dll
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 Model\obj\Debug\Capstone 1 Model.pdb

@@ -1,0 +1,12 @@
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\bin\Debug\netcoreapp3.1\ConstosoDataAccess.deps.json
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\bin\Debug\netcoreapp3.1\ConstosoDataAccess.dll
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\bin\Debug\netcoreapp3.1\ConstosoModel.dll
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\bin\Debug\netcoreapp3.1\ConstosoModel.pdb
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\obj\Debug\netcoreapp3.1\ConstosoDataAccess.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\obj\Debug\netcoreapp3.1\ConstosoDataAccess.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\obj\Debug\netcoreapp3.1\ConstosoDataAccess.csproj.CopyComplete
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\bin\Debug\netcoreapp3.1\ConstosoDataAccess.pdb
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\obj\Debug\netcoreapp3.1\ConstosoDataAccess.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\obj\Debug\netcoreapp3.1\ConstosoDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\obj\Debug\netcoreapp3.1\ConstosoDataAccess.dll
+C:\Users\Dell\source\repos\ContosoUniversity\DataAccess\obj\Debug\netcoreapp3.1\ConstosoDataAccess.pdb

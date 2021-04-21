@@ -1,0 +1,9 @@
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\obj\Debug\Capstone 1 DataAccess.csprojAssemblyReference.cache
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\obj\Debug\Capstone 1 DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\bin\Debug\Capstone 1 DataAccess.dll
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\bin\Debug\Capstone 1 DataAccess.pdb
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\bin\Debug\Capstone 1 Model.dll
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\bin\Debug\Capstone 1 Model.pdb
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\obj\Debug\Capstone 1 DataAccess.csproj.CopyComplete
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\obj\Debug\Capstone 1 DataAccess.dll
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1 DataAccess\obj\Debug\Capstone 1 DataAccess.pdb

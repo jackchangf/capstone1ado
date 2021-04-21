@@ -1,0 +1,7 @@
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1.exe.config
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1.exe
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\bin\Debug\Capstone 1.pdb
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1.csprojAssemblyReference.cache
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1.csproj.CoreCompileInputs.cache
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1.exe
+C:\Users\Chan\Desktop\SGUNITED FULL STACK DEV\Capstone\Capstone 1\obj\Debug\Capstone 1.pdb

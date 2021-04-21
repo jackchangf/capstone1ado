@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\ContosoUniversity.exe
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\ContosoUniversity.deps.json
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\ContosoUniversity.runtimeconfig.json
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\ContosoUniversity.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\ContosoUniversity.dll
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp3.1\ContosoUniversity.pdb
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.dll
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.pdb
+C:\Users\Dell\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\ContosoUniversity.genruntimeconfig.cache
